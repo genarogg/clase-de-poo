@@ -10,12 +10,3 @@ const obtenerEdad = (dad) => {
 
 
 
-
-function holaMundo(){
-    console.log(hola)
-
-    return 
-    
-}
-
-console.log(holaMundo())
